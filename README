@@ -1,6 +1,6 @@
-This is may be a simpler way to search the web using Google Search API and Java.
+This may be a simpler way to search the web using Google Search API and Java.
 
-What do you need to use the library:
+What you need to use the library:
 -a Custom Search API key (get one at https://code.google.com/apis/console)
 -a Custom Search Engine id (create one at http://www.google.com/cse/manage/create and remember to activate the option "search the entire web" inside)
 -GSON library in your build path (http://code.google.com/p/google-gson/)
